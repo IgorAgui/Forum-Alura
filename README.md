@@ -20,6 +20,7 @@ Desenvolver uma API REST usando o Spring Boot
 - JAVA
 - Spring Boot 3.1.4
 - Token JWT
+- Spring Data JPA
 - MySQL
 - Swagger UI
 - BCrypt Password
