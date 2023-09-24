@@ -1,4 +1,4 @@
-# Challenge ONE | Java | Back-end | FORUM ALURA API REST
+# Challenge | Java | Back-end | FORUM ALURA API REST
 
 <p align="center" >
      <img width="600" heigth="400" src="https://raw.githubusercontent.com/IgorAgui/Forum-Alura/main/Img/ApiForum.PNG">
