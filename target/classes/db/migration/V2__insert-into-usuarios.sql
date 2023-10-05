@@ -1,1 +1,0 @@
-INSERT INTO usuarios values(1, 'igor@alura.com', '$2a$10$Y50UaMFOxteibQEYLrwuHeehHYfcoafCopUazP12.rqB41bsolF5.');
